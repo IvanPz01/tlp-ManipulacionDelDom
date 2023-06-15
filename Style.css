@@ -1,0 +1,11 @@
+p{
+    color: #808;
+}
+.text-orange {
+    color: #F90;
+}
+#principal{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
